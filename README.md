@@ -1,5 +1,5 @@
 # 💫 About Me:
-Competent Java Developer with over 3.5 years of experience in building microservice based scalable web<br>applications, and APIs, primarily in the e-commerce domain. Proficient in Spring Boot and Spring MVC with<br>a strong focus on performance optimization, clean architecture, and debugging. Experienced in system design<br>and leading teams to deliver high-quality, maintainable solutions.
+I'm a Java developer with over 3.5 years of hands-on experience in building scalable web applications. I work mostly with Spring Boot, and I enjoy focusing on clean architecture, performance tuning, and solving tricky bugs.
 
 
 ## 🌐 Socials:

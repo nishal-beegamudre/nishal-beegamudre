@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Java developer with over 3.5 years of hands-on experience in building scalable web applications. I work mostly with Spring Boot, and I enjoy focusing on clean architecture, performance tuning, and solving tricky bugs.
+I'm a Java developer with over 4 years of hands-on experience in building scalable web applications. I work mostly with Spring Boot, and I enjoy focusing on clean architecture, performance tuning, and solving tricky bugs.
 
 
 ## 🌐 Socials:
